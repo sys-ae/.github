@@ -1,0 +1,5 @@
+# Profile repo holds ONLY the org README. Never the sibling project checkouts.
+/fieldopt/
+/fieldopt.github.io/
+.DS_Store
+*.swp
